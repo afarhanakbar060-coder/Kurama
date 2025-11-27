@@ -1,5 +1,4 @@
 # Kurama
-<!DOCTYPE html>
 <html>
 <head>
 
