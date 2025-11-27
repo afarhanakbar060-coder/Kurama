@@ -1,10 +1,18 @@
 # Kurama
+<!DOCTYPE html>
+<html>
+<head>
+
 </head>
 <body>
-  <h1>Kelompok 8</h1>
-  <ol>
-    <li>dwi Arthur Siva (11)</li>
-    <li>Farhan akbar (15)</li>
-  </ol>
+
+  <h1>KURAMA777</h1>
+  <h3>Situs slot terpercaya</h3>
+
+  <p>Mulai</p>
+  <p>Opsi</p>
+  <p>Pengaturan</p>
+  <p>top up</p>
+
 </body>
 </html>
